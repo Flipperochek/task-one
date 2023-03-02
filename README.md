@@ -1,3 +1,3 @@
 # Hello, world! 
 
-origin
+I study in Netology
